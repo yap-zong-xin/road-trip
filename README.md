@@ -1,7 +1,7 @@
 # Road Trip [work in progress]
 Plan and customize your perfect road trip with ease! Add stops for meals, hotels, and attractions, and watch your route connect seamlessly. Rearrange locations with drag-and-drop, navigate to your current position with a tap, and center the map effortlessly. Adventure starts here!
 
-![image](https://github.com/user-attachments/assets/fe767ec9-ac4c-4d67-a250-ad863108afa2)
+![image](https://github.com/user-attachments/assets/0993988d-f056-4146-982c-976491a02752)
 
 ## Features
 - **Custom Routes:** Add and organize stops like restaurants, hotels, and attractions.
