@@ -17,7 +17,7 @@ React Router, context API, memo, useMemo, useCallback
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/road-trip.git
+   git clone https://github.com/yap-zong-xin/road-trip.git
 2. Navigate to the project directory:
    ```bash
    cd road-trip
