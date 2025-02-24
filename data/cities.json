@@ -1,100 +1,108 @@
 {
-    "cities": [
-        {
-            "id": "c836",
-            "cityName": "Home",
-            "country": "Singapore",
-            "emoji": "🏁",
-            "date": "2025-02-07T15:21:31.220Z",
-            "notes": "",
-            "position": {
-                "lat": 1.438708,
-                "lng": 103.799301
-            }
-        },
-        {
-            "id": "377d",
-            "cityName": "Kuala Lumpur",
-            "country": "Malaysia",
-            "emoji": "🍴",
-            "date": "2025-02-07T15:21:46.454Z",
-            "notes": "",
-            "position": {
-                "lat": 3.151696,
-                "lng": 101.694237
-            }
-        },
-        {
-            "id": "3432",
-            "cityName": "Ipoh",
-            "country": "Malaysia",
-            "emoji": "🏫",
-            "date": "2025-02-07T15:22:08.841Z",
-            "notes": "",
-            "position": {
-                "lat": 4.596848,
-                "lng": 101.08405
-            }
-        },
-        {
-            "id": "5ee1",
-            "cityName": "Cameron Highlands",
-            "country": "Malaysia",
-            "emoji": "🏠",
-            "date": "2025-02-07T15:26:47.010Z",
-            "notes": "",
-            "position": {
-                "lat": 4.470894,
-                "lng": 101.375166
-            }
-        },
-        {
-            "id": "afbd",
-            "cityName": "Genting Highlands",
-            "country": "Malaysia",
-            "emoji": "🏠",
-            "date": "2025-02-07T15:27:03.290Z",
-            "notes": "",
-            "position": {
-                "lat": 3.424755,
-                "lng": 101.79462
-            }
-        },
-        {
-            "id": "d59d",
-            "cityName": "Melaka",
-            "country": "Malaysia",
-            "emoji": "🏠",
-            "date": "2025-02-07T15:27:16.957Z",
-            "notes": "",
-            "position": {
-                "lat": 2.196443,
-                "lng": 102.25013
-            }
-        },
-        {
-            "id": "55c4",
-            "cityName": "Johor Bahru",
-            "country": "Malaysia",
-            "emoji": "🏠",
-            "date": "2025-02-07T15:27:35.891Z",
-            "notes": "",
-            "position": {
-                "lat": 1.502187,
-                "lng": 103.74854
-            }
-        },
-        {
-            "id": "ab8a",
-            "cityName": "Hat Yai",
-            "country": "Thailand",
-            "emoji": "🛌",
-            "date": "2025-02-16T16:12:06.309Z",
-            "notes": "",
-            "position": {
-                "lat": 7.004467,
-                "lng": 100.47346
-            }
-        }
-    ]
+  "cities": [
+    {
+      "id": "c836",
+      "cityName": "Home",
+      "country": "Singapore",
+      "emoji": "🏁",
+      "date": "2025-02-07T15:21:31.220Z",
+      "notes": "",
+      "position": {
+        "lat": 1.438708,
+        "lng": 103.799301
+      },
+      "order": 0
+    },
+    {
+      "id": "377d",
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🍴",
+      "date": "2025-02-07T15:21:46.454Z",
+      "notes": "",
+      "position": {
+        "lat": 3.151696,
+        "lng": 101.694237
+      },
+      "order": 1
+    },
+    {
+      "id": "3432",
+      "cityName": "Ipoh",
+      "country": "Malaysia",
+      "emoji": "🏫",
+      "date": "2025-02-07T15:22:08.841Z",
+      "notes": "",
+      "position": {
+        "lat": 4.596848,
+        "lng": 101.08405
+      },
+      "order": 2
+    },
+    {
+      "id": "5ee1",
+      "cityName": "Cameron Highlands",
+      "country": "Malaysia",
+      "emoji": "🏠",
+      "date": "2025-02-07T15:26:47.010Z",
+      "notes": "",
+      "position": {
+        "lat": 4.470894,
+        "lng": 101.375166
+      },
+      "order": 4
+    },
+    {
+      "id": "afbd",
+      "cityName": "Genting Highlands",
+      "country": "Malaysia",
+      "emoji": "🏠",
+      "date": "2025-02-07T15:27:03.290Z",
+      "notes": "",
+      "position": {
+        "lat": 3.424755,
+        "lng": 101.79462
+      },
+      "order": 5
+    },
+    {
+      "id": "d59d",
+      "cityName": "Melaka",
+      "country": "Malaysia",
+      "emoji": "🏠",
+      "date": "2025-02-07T15:27:16.957Z",
+      "notes": "",
+      "position": {
+        "lat": 2.196443,
+        "lng": 102.25013
+      },
+      "order": 6
+    },
+    {
+      "id": "55c4",
+      "cityName": "Johor Bahru",
+      "country": "Malaysia",
+      "emoji": "🏠",
+      "date": "2025-02-07T15:27:35.891Z",
+      "notes": "",
+      "position": {
+        "lat": 1.502187,
+        "lng": 103.74854
+      },
+      "order": 7
+    },
+    {
+      "id": "ab8a",
+      "cityName": "Hat Yai",
+      "country": "Thailand",
+      "emoji": "🛌",
+      "date": "2025-02-16T16:12:06.309Z",
+      "notes": "",
+      "position": {
+        "lat": 7.004467,
+        "lng": 100.47346
+      },
+      "order": 3
+    }
+  ]
 }
