@@ -24,7 +24,10 @@ React Router, context API, memo, useMemo, useCallback
 3. Install dependencies:
    ```bash
    npm install
-4. Run the data and app locally:
+4. Create a .env file in the root directory and add the following environment variables:
+   ```bash
+   VITE_ACCESS_TOKEN=your-geocode-access-token
+5. Run the data and app locally:
    ```bash
    npm run server
    npm run dev
