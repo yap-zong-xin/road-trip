@@ -103,6 +103,18 @@
         "lng": 100.47346
       },
       "order": 3
+    },
+    {
+      "id": "401f",
+      "cityName": "Penang",
+      "country": "Malaysia",
+      "emoji": "🍴",
+      "date": "2025-02-24T19:26:22.538Z",
+      "notes": "",
+      "position": {
+        "lat": 5.41558,
+        "lng": 100.3314
+      }
     }
   ]
 }
